@@ -1,0 +1,28 @@
+
+xiaomi_miio_humidifier_set_buzzer_on:
+  description: Turn the buzzer on.
+
+  fields:
+    entity_id:
+      description: Name of the air humidifier entity.
+      example: 'fan.xiaomi_air_humidifier'
+
+xiaomi_miio_humidifier_set_buzzer_off:
+  description: Turn the buzzer off.
+
+  fields:
+    entity_id:
+      description: Name of the air humidifier entity.
+      example: 'fan.xiaomi_air_purifier'
+
+xiaomi_miio_humidifier_set_led_brightness:
+  description: Set the led brightness.
+
+  fields:
+    entity_id:
+      description: Name of the air humidifier entity.
+      example: 'fan.xiaomi_air_humidifier'
+
+    brightness:
+      description: Brightness (0 = Bright, 1 = Dim, 2 = Off)
+      example: '1'
