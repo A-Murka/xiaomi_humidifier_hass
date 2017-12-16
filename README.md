@@ -3,7 +3,7 @@ Integration of Xiaomi Humidifier into Home Assistant
 
 Based on existing Xiaomi AirPurifier integration into Home Assistant
 
-H1# Usage
+# Usage
 Place both files to {homeassistant_config_directory}/custom_components/fan/
 
 In Home Assistant configuration file:
