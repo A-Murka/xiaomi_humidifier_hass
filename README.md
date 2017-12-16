@@ -9,8 +9,8 @@ Place both files to {homeassistant_config_directory}/custom_components/fan/
 In Home Assistant configuration file:
 
 fan:
-  - platform: xiaomi_miio_humidifier \n
-    name: Xiaomi Humidifier \n
+  - platform: xiaomi_miio_humidifier
+    name: Xiaomi Humidifier
     host: 192.168.x.x
     token: 'xxxxxxxxxxxxxxxxxxxx'
     
