@@ -160,7 +160,7 @@ class XiaomiAirHumidifier(FanEntity):
 #            ATTR_FILTER_HOURS_USED: None,
 #            ATTR_FILTER_LIFE: None,
 #            ATTR_FAVORITE_LEVEL: None,
-#            ATTR_BUZZER: None,
+            ATTR_BUZZER: None,
 #            ATTR_CHILD_LOCK: None,
 #            ATTR_LED: None,
             ATTR_LED_BRIGHTNESS: None,
